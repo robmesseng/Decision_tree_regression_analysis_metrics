@@ -6,12 +6,12 @@ Este repositorio contiene código Python que implementa un modelo de regresión 
  
 ## Contenido del Repositorio 
  
-- ** decision_tree_regression.ipynb **: Jupyter Notebook que contiene el código para entrenar un modelo de regresión de árbol de decisión y evaluar su rendimiento. 
-- ** data.csv **: Archivo CSV con los datos utilizados para el entrenamiento y prueba del modelo. 
+- ** practicafinal2.ipynb **: Jupyter Notebook que contiene el código para entrenar un modelo de regresión de árbol de decisión y evaluar su rendimiento. 
+- ** toyota.csv **: Archivo CSV con los datos utilizados para el entrenamiento y prueba del modelo. 
  
 ## Descripción del Código 
  
-El código en  decision_tree_regression.ipynb  realiza las siguientes acciones: 
+El código en  practicafinal2.ipynb  realiza las siguientes acciones: 
  
 1. Entrena un modelo de regresión de árbol de decisión con diferentes profundidades. 
 2. Calcula y compara las puntuaciones R^2 de entrenamiento y prueba para cada modelo. 
@@ -24,6 +24,6 @@ En el código, el parámetro  max_depth  se refiere a la profundidad máxima que
  
 ## Ejecución del Código 
  
-Para ejecutar el código en este repositorio, asegúrate de tener instaladas las bibliotecas necesarias y de tener el archivo  data.csv  en la misma ubicación que el notebook. 
+Para ejecutar el código en este repositorio, asegúrate de tener instaladas las bibliotecas necesarias y de tener el archivo  toyota.csv  en la misma ubicación que el notebook. 
  
 --- 
